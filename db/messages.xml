@@ -43,5 +43,18 @@ Example messages:
         <text>Welcome to my server #name</text>
     </message>
 	-->
+	     <message>
+        <repeat>6</repeat>
+        <text>The Pythagorean Theorem: In a right angled triangle, the square of the hypotenuse is equal to the sum of the squares of the other two sides.</text>
+    </message>
+      <message>
+        <repeat>5</repeat>
+        <text>The quadratic formula takes the form of y equals a times x squared plus b times x plus c.</text>
+    </message>
+      <message>
+        <repeat>5</repeat>
+        <delay>2</delay>
+        <text>To find the solutions of the quatratic formula use x equals the opposite of b plus or minus the square root of b squared minus four a c all over two a.</text>
+    </message>
 	
 </messages>
