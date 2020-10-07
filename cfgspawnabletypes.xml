@@ -2025,7 +2025,7 @@
 			<item name="M4_PlasticHndgrd" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="M4_CarryHandleOptic" chance="1.00" />
+			<item name="M68Optic" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
 			<item name="Mag_STANAG_30Rnd" chance="1.00" />
@@ -2039,7 +2039,7 @@
 			<item name="M4_PlasticHndgrd" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="M4_CarryHandleOptic" chance="1.00" />
+			<item name="M68Optic" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
 			<item name="Mag_STANAG_30Rnd" chance="1.00" />
