@@ -1871,7 +1871,7 @@
 	</type>
 	<type name="Winchester70">
 		<attachments chance="1.00">
-			<item name="HuntingOptic" chance="1.00" />
+			<item name="HuntingOptic" />
 		</attachments>
 	</type>
 	<type name="Mosin9130">
