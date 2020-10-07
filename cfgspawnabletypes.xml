@@ -41,87 +41,7 @@
 		<hoarder />
 	</type>
 	<type name="SeaChest">
-		<cargo chance="1.00">
-			<item name="M65Jacket_Black" />
-		</cargo>
-		<cargo chance="1.00">
-			<item name="M65Jacket_Black" />
-		</cargo>
-		<cargo chance="1.00">
-			<item name="M65Jacket_Black" />
-		</cargo>
-		<cargo chance="1.00">
-			<item name="CargoPants_Black" />
-		</cargo>
-		<cargo chance="1.00">
-			<item name="CargoPants_Black" />
-		</cargo>
-		<cargo chance="1.00">
-			<item name="CargoPants_Black" />
-		</cargo>
-		<cargo chance="1.00">
-			<item name="TacticalGloves_Black" />
-		</cargo>
-		<cargo chance="1.00">
-			<item name="TacticalGloves_Black" />
-		</cargo>
-		<cargo chance="1.00">
-			<item name="TacticalGloves_Black" />
-		</cargo>
-		<cargo chance="1.00">
-			<item name="JungleBoots_Green" />
-		</cargo>
-		<cargo chance="1.00">
-			<item name="JungleBoots_Green" />
-		</cargo>
-		<cargo chance="1.00">
-			<item name="JungleBoots_Green" />
-		</cargo>
-		<cargo chance="1.00">
-			<item name="HighCapacityVest_Olive" />
-		</cargo>
-		<cargo chance="1.00">
-			<item name="HighCapacityVest_Olive" />
-		</cargo>
-		<cargo chance="1.00">
-			<item name="HighCapacityVest_Olive" />
-		</cargo>
-		<cargo chance="1.00">
-			<item name="SmershVest" />
-		</cargo>
-		<cargo chance="1.00">
-			<item name="SmershBag" />
-		</cargo>
-		<cargo chance="1.00">
-			<item name="AirborneMask" />
-		</cargo>
-		<cargo chance="1.00">
-			<item name="BallisticHelmet_Green" />
-		</cargo>
-		<cargo chance="1.00">
-			<item name="BallisticHelmet_Black" />
-		</cargo>
-		<cargo chance="1.00">
-			<item name="RadarCap_Black" />
-		</cargo>
-		<cargo chance="1.00">
-			<item name="BeanieHat_Black" />
-		</cargo>
-		<cargo chance="1.00">
-			<item name="Balaclava3Holes_Black" />
-		</cargo>
-		<cargo chance="1.00">
-			<item name="GhillieSuit_Mossy" />
-		</cargo>
-		<cargo chance="1.00">
-			<item name="GhillieHood_Mossy" />
-		</cargo>
-		<cargo chance="1.00">
-			<item name="AviatorGlasses" />
-		</cargo>
-		<cargo chance="1.00">
-			<item name="BalaclavaMask_Blackskull" />
-		</cargo>
+		
 		<hoarder />
 	</type>
 	<type name="SmallProtectorCase">
@@ -3194,9 +3114,103 @@
 		<attachments chance="1.00">
 			<item name="CivSedanTrunk_Wine" chance="1.00" />
 		</attachments>
-				<attachments chance="1.00">
-			<item name="CanisterGasoline" chance="1.00" />
+		<attachments chance="1.00">
+			<item name="M65Jacket_Black" />
 		</attachments>
+		<attachments chance="1.00">
+			<item name="M65Jacket_Black" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="M65Jacket_Black" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CargoPants_Black" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CargoPants_Black" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CargoPants_Black" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="TacticalGloves_Black" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="TacticalGloves_Black" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="TacticalGloves_Black" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="JungleBoots_Green" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="JungleBoots_Green" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="JungleBoots_Green" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HighCapacityVest_Olive" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HighCapacityVest_Olive" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HighCapacityVest_Olive" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SmershVest" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SmershBag" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="AirborneMask" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BallisticHelmet_Green" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BallisticHelmet_Black" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="RadarCap_Black" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BeanieHat_Black" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Balaclava3Holes_Black" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="GhillieSuit_Mossy" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="GhillieHood_Mossy" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="AviatorGlasses" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BalaclavaMask_Blackskull" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KazuarOptic"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Battery9V"/>
+		</attachments>
+		<attachments chance="1.00">
+			<iten name="Winchester70"/>
+		</attachments>
+		<attachments chance="1.00">
+			<iten name="HuntingOptic"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item name="AmmoBox_308WinTracer_20Rnd"/>
+		</attachments>
+
 	</type>
 	<type name="CivilianSedan_Black">
 		<attachments chance="1.00">

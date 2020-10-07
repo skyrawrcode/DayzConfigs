@@ -296,7 +296,7 @@
 		<pos x="14223.7" z="13297.6" a="282.0"/>
 	</event>
 	<event name="StaticUniforms">
-		<pos x="14228.2" z="13299.1" a="-1"/>
+		<pos x="14270.3" z="13299.7" a="3.3"/>
 	</event>
     <event name="Loot" />
     <event name="VehicleOffroadHatchback">
