@@ -9633,8 +9633,8 @@
   </type>
   <type name="Mag_STANAGCoupled_30Rnd">
     <nominal>500</nominal>
-    <lifetime>172800</lifetime>
-    <restock>2700</restock>
+    <lifetime>900</lifetime>
+    <restock>0</restock>
     <min>499</min>
     <quantmin>100</quantmin>
     <quantmax>100</quantmax>
@@ -9644,10 +9644,10 @@
     <tag name="shelves" />
   </type>
   <type name="Mag_STANAG_30Rnd">
-    <nominal>30</nominal>
+    <nominal>500</nominal>
     <lifetime>172800</lifetime>
-    <restock>1800</restock>
-    <min>20</min>
+    <restock>0</restock>
+    <min>499</min>
     <quantmin>100</quantmin>
     <quantmax>100</quantmax>
     <cost>100</cost>
@@ -9659,7 +9659,7 @@
     <lifetime>900</lifetime>
     <restock>1800</restock>
     <min>295</min>
-    <quantmin>99</quantmin>
+    <quantmin>100</quantmin>
     <quantmax>100</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
@@ -9710,7 +9710,7 @@
     <lifetime>900</lifetime>
     <restock>1800</restock>
     <min>295</min>
-    <quantmin>99</quantmin>
+    <quantmin>100</quantmin>
     <quantmax>100</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
