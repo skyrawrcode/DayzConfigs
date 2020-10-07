@@ -575,7 +575,7 @@
         <position>fixed</position>
         <active>1</active>
         <children>
-            <child lootmax="0" lootmin="0" max="51" min="47" type="CivilianSedan_Wine"/>
+            <child lootmax="0" lootmin="0" max="1" min="1" type="CivilianSedan_Wine"/>
         </children>
     </event>
     <event name="Loot">

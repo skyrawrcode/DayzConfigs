@@ -1833,21 +1833,20 @@
 		</attachments>
 	</type>
 	<type name="UMP45">
-		<attachments chance="0.20">
+		<attachments chance="1.00">
 			<item name="Mag_UMP_25Rnd" chance="1.00" />
 		</attachments>
 		<!-- Mag_UMP_25Rnd -->
-		<attachments chance="0.30">
+		<attachments chance="1.00">
 			<item name="BUISOptic" chance="0.15" />
 			<item name="M68Optic" chance="0.15" />
-			<item name="M4_T3NRDSOptic" chance="0.20" />
-			<item name="ReflexOptic" chance="0.20" />
-			<item name="ACOGOptic" chance="0.30" />
+			<item name="M4_T3NRDSOptic" chance="0.35" />
+			<item name="ReflexOptic" chance="0.35" />
 		</attachments>
-		<attachments chance="0.05">
+		<attachments chance="1.00">
 			<item name="PistolSuppressor" chance="1.00" />
 		</attachments>
-		<attachments chance="0.10">
+		<attachments chance="1.00">
 			<item name="TLRLight" chance="1.00" />
 		</attachments>
 	</type>
@@ -1871,16 +1870,24 @@
 		</attachments>
 	</type>
 	<type name="Winchester70">
-		<attachments chance="0.10">
+		<attachments chance="1.00">
 			<item name="HuntingOptic" chance="1.00" />
 		</attachments>
 	</type>
 	<type name="Mosin9130">
 		<attachments chance="1.00">
-			<item name="Mosin_Compensator" chance="0.10" />
+			<item name="Mosin_Compensator" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="PUScopeOptic" chance="0.05" />
+			<item name="PUScopeOptic" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="Mosin9130_Black">
+		<attachments chance="1.00">
+			<item name="Mosin_Compensator" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="PUScopeOptic" chance="1.00" />
 		</attachments>
 	</type>
 	<type name="SKS">
@@ -2058,12 +2065,11 @@
 	</type>
 	<type name="SVD">
 		<subcounter min="30" max="60" />
-		<attachments chance="0.10">
+		<attachments chance="1.00">
 			<item name="Mag_SVD_10Rnd" chance="1.00" />
 		</attachments>
-		<attachments chance="0.50">
-			<item name="KashtanOptic" chance="0.50" />
-			<item name="PSO11Optic" chance="0.30" />
+		<attachments chance="1.00">
+			<item name="PSO11Optic"  />
 		</attachments>
 	</type>
 	<type name="Colt1911">
@@ -3181,7 +3187,7 @@
 			<item name="BeanieHat_Black" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="Balaclava3Holes_Black" />
+			<item name="Balaclava_Black" />
 		</attachments>
 		<attachments chance="1.00">
 			<item name="GhillieSuit_Mossy" />
