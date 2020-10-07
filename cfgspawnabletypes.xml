@@ -3163,9 +3163,6 @@
 			<item name="HighCapacityVest_Olive" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="HighCapacityVest_Olive" />
-		</attachments>
-		<attachments chance="1.00">
 			<item name="SmershVest" />
 		</attachments>
 		<attachments chance="1.00">
@@ -3187,7 +3184,7 @@
 			<item name="BeanieHat_Black" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="Balaclava_Black" />
+			<item name="BalaclavaMask_Black" />
 		</attachments>
 		<attachments chance="1.00">
 			<item name="GhillieSuit_Mossy" />
@@ -3208,10 +3205,10 @@
 			<item name="Battery9V"/>
 		</attachments>
 		<attachments chance="1.00">
-			<iten name="Winchester70"/>
+			<item name="Winchester70_Black"/>
 		</attachments>
 		<attachments chance="1.00">
-			<iten name="HuntingOptic"/>
+			<item name="HuntingOptic" />
 		</attachments>
 		<attachments chance="1.00">
 			<item name="AmmoBox_308WinTracer_20Rnd"/>
