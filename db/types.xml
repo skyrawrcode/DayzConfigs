@@ -10922,10 +10922,10 @@
     <category name="tools" />
   </type>
   <type name="PSO11Optic">
-    <nominal>300</nominal>
+    <nominal>0</nominal>
     <lifetime>172800</lifetime>
     <restock>1800</restock>
-    <min>290</min>
+    <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -10934,10 +10934,10 @@
     <usage name="Police"/>
   </type>
   <type name="PSO1Optic">
-    <nominal>300</nominal>
+    <nominal>0</nominal>
     <lifetime>900</lifetime>
     <restock>1800</restock>
-    <min>290</min>
+    <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
