@@ -460,10 +460,10 @@
     <tag name="shelves"/>
   </type>
   <type name="AmmoBox_12gaRubberSlug_10Rnd">
-    <nominal>40</nominal>
+    <nominal>0</nominal>
     <lifetime>172800</lifetime>
     <restock>0</restock>
-    <min>30</min>
+    <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -473,10 +473,10 @@
     <usage name="Police" />
   </type>
   <type name="AmmoBox_12gaSlug_10Rnd">
-    <nominal>40</nominal>
+    <nominal>0</nominal>
     <lifetime>172800</lifetime>
     <restock>0</restock>
-    <min>30</min>
+    <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -729,10 +729,10 @@
     <usage name="Hunting" />
   </type>
   <type name="Ammo_12gaRubberSlug">
-    <nominal>80</nominal>
+    <nominal>0</nominal>
     <lifetime>172800</lifetime>
     <restock>60</restock>
-    <min>60</min>
+    <min>0</min>
     <quantmin>20</quantmin>
     <quantmax>100</quantmax>
     <cost>100</cost>
@@ -743,10 +743,10 @@
     <usage name="Farm" />
   </type>
   <type name="Ammo_12gaSlug">
-    <nominal>80</nominal>
+    <nominal>0</nominal>
     <lifetime>900</lifetime>
     <restock>0</restock>
-    <min>60</min>
+    <min>0</min>
     <quantmin>20</quantmin>
     <quantmax>100</quantmax>
     <cost>100</cost>
